@@ -3,9 +3,9 @@
 ## 交流讨论
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/NJUPT-SACC/One-Plus-One-Question)，加入 **“SACC前端学习组”** （QQ群号：805656478）。
 
-## 今天的知识点 (2019.10.01) —— 第 1 天
-- [html] [花式Hello World](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/1)
-- [Thinking] [你为什么会选择计算机专业](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/2)
+## 今天的知识点 (2019.10.02) —— 第 2 天
+- [html] [展示优等生摘抄](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/3)
+- [Thinking] [搞不懂的p && span标签](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/4)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
