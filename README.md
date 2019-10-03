@@ -3,9 +3,9 @@
 ## 交流讨论
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/NJUPT-SACC/One-Plus-One-Question)，加入 **“SACC前端学习组”** （QQ群号：805656478）。
 
-## 今天的知识点 (2019.10.02) —— 第 2 天
-- [html] [展示优等生摘抄](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/3)
-- [Thinking] [搞不懂的p && span标签](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/4)
+## 今天的知识点 (2019.10.03) —— 第 3 天
+- [css] [普普通通 水平居中](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/5)
+- [Thinking] [花里胡哨 水平居中](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/6)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
