@@ -3,7 +3,7 @@
 ## 交流讨论
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/NJUPT-SACC/One-Plus-One-Question)，加入 **“SACC前端学习组”** （QQ群号：805656478）。
 
-## 今天的知识点 (2019.10.09) —— 第 10 天
+## 今天的知识点 (2019.10.10) —— 第 10 天
 - [css] [ 爱搜什么搜什么 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/19)
 - [css] [ 好看的SearchBox ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/20)
 
