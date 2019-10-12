@@ -3,9 +3,9 @@
 ## 交流讨论
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/NJUPT-SACC/One-Plus-One-Question)，加入 **“SACC前端学习组”** （QQ群号：805656478）。
 
-## 今天的知识点 (2019.10.11) —— 第 11 天
-- [css] [ 花里胡哨的光标 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/21)
-- [Thinking] [ 臭美的小张 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/22)
+## 今天的知识点 (2019.10.12) —— 第 12 天
+- [css] [  三栏列表排图  ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/23)
+- [Thinking] [ 今天天气不太好，所以题目想不出来了 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/24)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -49,6 +49,10 @@
 **第 10 天(2019.10.10)**
 - [css] [ 爱搜什么搜什么 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/19)
 - [css] [ 好看的SearchBox ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/20)
+
+**第 11 天(2019.10.11)**
+- [css] [ 花里胡哨的光标 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/21)
+- [Thinking] [ 臭美的小张 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/22)
 
 ## 怎样学习
 - 不管题目懂与不懂都要先思考再百度，思考后一定要去写出来
