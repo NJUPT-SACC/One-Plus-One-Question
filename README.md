@@ -4,8 +4,8 @@
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/NJUPT-SACC/One-Plus-One-Question)，加入 **“SACC前端学习组”** （QQ群号：805656478）。
 
 ## 今天的知识点 (2019.10.16) —— 第 13 天
-- [css] [  链接，你变色了  ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/25)
-- [css] [ 掉落的红色方块 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/26)
+- [css] [  掉落的红色方块  ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/25)
+- [css] [ 链接，你变色了 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/26)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
