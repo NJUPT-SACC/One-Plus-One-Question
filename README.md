@@ -1,11 +1,11 @@
-# 前端每日 **1+1**（每日两问）
+# 前端每日 **1+1**（每周两问）
 
 ## 交流讨论
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/NJUPT-SACC/One-Plus-One-Question)，加入 **“SACC前端学习组”** （QQ群号：805656478）。
 
-## 今天的知识点 (2019.10.16) —— 第 13 天
-- [css] [  掉落的红色方块  ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/25)
-- [css] [ 链接，你变色了 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/26)
+## 今天的知识点 (2019.10.23) —— 第 14 天
+- [css] [  花里胡哨的方框  ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/27)
+- [css] [ 实现页尾end ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/28)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -57,6 +57,10 @@
 **第 12 天(2019.10.12)**
 - [css] [  三栏列表排图  ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/23)
 - [Thinking] [ 今天天气不太好，所以题目想不出来了 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/24)
+
+**第 13 天(2019.10.16)**
+- [css] [  掉落的红色方块  ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/25)
+- [css] [ 链接，你变色了 ](https://github.com/NJUPT-SACC/One-Plus-One-Question/issues/26)
 
 ## 怎样学习
 - 不管题目懂与不懂都要先思考再百度，思考后一定要去写出来
